@@ -1,0 +1,60 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Green> Welcome </>",
+                    "title1": "<TextStyle.Green> Welcome On Matrix </>",
+                    "text1": "\n\n\n\n          Matrix was created because I'm fed up with all the servers that impose 10/15/20 ..... rules ingame, it's unbearable, it's a game and we want to relax. I rent a very powerful host to offer you a stable servers. I hope you have a good time, we have a community that helps each other with respect. Neo.",
+					
+                    "imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Green> Rule </>",
+                    "title1": "<TextStyle.Green> Rule </>",
+                    "text1": "\n\n\n\n          Just 1 rule !Dont Mesh!",
+                    "imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Green> Donation </>",
+                    "title1": "<TextStyle.Green> Donation </>",
+                    "text1": "\n\n\n\n After a donate do a ticket on discord.",
+                    "imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "<TextStyle.Blue> Discord </>",
+                    "url": "https://discord.gg/uBGrTpWCcA"
+                }
+            },
+            {
+                "link2": {
+                    "text": "<TextStyle.Red> Donate </>",
+                    "url": "https://0204neoprimal-eternalp.tebex.io/category/matrix-asa"
+                }
+            }
+        ]
+    }
+}
